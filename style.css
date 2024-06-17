@@ -1,0 +1,80 @@
+body{
+    background-color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+img{
+    position: absolute;
+    right: 0%;
+}   
+.Future{
+    color: black;
+    font-size: 20px;
+    font-weight: 900px;
+    text-align: left;
+    position: absolute;
+    left: 20%;
+    top: 290px;
+    
+}
+.Miko{
+    color: black;
+    text-align: left;
+    font-size: 90px;
+    font-weight: 900px;
+    position: absolute;
+    left: 20%;
+    top: 320px;
+}
+.reference{
+    width: 100%;
+    background-color:rgb(104, 102, 102);
+    position: absolute;
+    top: 90%;
+    padding: 0px;
+    margin: 0px;
+}
+.rel{
+    font-size: 15px;
+    margin: 10px;
+}
+.verticalline{
+    border-left: 10px;
+}
+
+
+
+li {
+    float: left;
+}
+
+ul{
+   
+    list-style: none;
+    margin: 0px ;
+    padding: 0px;
+    width: 100%;
+    overflow: hidden;
+    background-color: rgb(104, 102, 102);
+}
+
+.active{
+    background-color: rgb(104, 102, 102);
+}
+li a{
+
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px ;
+    text-decoration: none;
+    padding: 14px 16px;
+
+}
+
+li a:hover{
+    background-color: rgb(84, 84, 84);
+}
+
